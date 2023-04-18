@@ -8,9 +8,10 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/afisaminou/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Create an Azure Account and Deploy a Virtual Machine (VM)](https://github.com/afisaminou/Create-an-Azure-Account-and-Deploy-a-Virtual-Machine)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/afisaminou/configure-ad)
-  - [Network File Shares and Permission](https://github.com/afisaminou/Virtual-Private-Network)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/afisaminou/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/afisaminou/configure-ad)
+  - [Network File Shares and Permission](https://github.com/afisaminou/)
+  - 
   - [Virtual Private Network](https://github.com/afisaminou/Virtual-Private-Network)
 
 <h2>🤳Connect with me:</h2>
