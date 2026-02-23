@@ -12,6 +12,12 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/afisaminou/configure-ad)
   - [Network File Shares and Permissions](https://github.com/afisaminou/Network-File-Shares-and-Permissions)
   - [Virtual Private Network](https://github.com/afisaminou/Virtual-Private-Network)
+ 
+<h2>👨‍💻 Amazon Web Service (AWS) Projects:</h2>
+
+  - [Secure & Scalable Web Application Hosting on AWS](https://github.com/afisaminou/Secure-and-Scalable-Web-Application-Hosting-on-AWS-)
+  - [Serverless Event-Driven File Processing System]: In Progress...
+
 
 <h2>🤳Connect with me:</h2>
 
