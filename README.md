@@ -16,7 +16,8 @@
 <h2>:cloud: 👨‍💻 :cloud: Amazon Web Service (AWS) Projects:</h2>
 
   - [Secure & Scalable Web Application Hosting on AWS](https://github.com/afisaminou/Secure-and-Scalable-Web-Application-Hosting-on-AWS-)
-  - [Serverless Event-Driven File Processing System]: In Progress...
+  - [Serverless Event-Driven File Processing System](https://github.com/afisaminou/Serverless-Event-Driven-File-Processing-System-)
+
 
 
 <h2>🤳Connect with me:</h2>
