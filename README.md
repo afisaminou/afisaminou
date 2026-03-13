@@ -16,7 +16,7 @@
 <h2>:cloud: 👨‍💻 :cloud: Amazon Web Service (AWS) Projects:</h2>
 
   - [Secure & Scalable Web Application Hosting on AWS](https://github.com/afisaminou/Secure-and-Scalable-Web-Application-Hosting-on-AWS-)
-  
+  - [Serverless Event-Driven File Processing on AWS (Terraform)](https://github.com/afisaminou/Serverless-Event-Driven-File-Processing-on-AWS-Terraform-.git)
 
 
 
