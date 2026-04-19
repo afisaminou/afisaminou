@@ -12,6 +12,8 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/afisaminou/configure-ad)
   - [Network File Shares and Permissions](https://github.com/afisaminou/Network-File-Shares-and-Permissions)
   - [Virtual Private Network](https://github.com/afisaminou/Virtual-Private-Network)
+
+ # 🛡️ Building a Live Honeynet + SOC in Azure (Live Traffic)
  
 <h2>:cloud: 👨‍💻 :cloud: Amazon Web Service (AWS) Projects:</h2>
 
