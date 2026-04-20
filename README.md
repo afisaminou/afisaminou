@@ -14,7 +14,9 @@
   - [Virtual Private Network](https://github.com/afisaminou/Virtual-Private-Network)
 
  # 🛡️ Building a Live Honeynet + SOC in Azure (Live Traffic)
-- [Building-a-Live-Honeynet-SOC-in-Azure-Live-Traffic](https://github.com/afisaminou/Building-a-Live-Honeynet-SOC-in-Azure-Live-Traffic)
+ 
+  - [Building-a-Live-Honeynet-SOC-in-Azure-Live-Traffic](https://github.com/afisaminou/Building-a-Live-Honeynet-SOC-in-Azure-Live-Traffic-))
+
 <h2>:cloud: 👨‍💻 :cloud: Amazon Web Service (AWS) Projects:</h2>
 
   - [Secure & Scalable Web Application Hosting on AWS](https://github.com/afisaminou/Secure-and-Scalable-Web-Application-Hosting-on-AWS-)
